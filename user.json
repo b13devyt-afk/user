@@ -7,6 +7,13 @@
     "allowOffline": true
   },
   {
+    "id": "274F43B4-2995-11E8-B1F4-44605F064057",
+    "username": "reza",
+    "password": "reza",
+    "expiresAt": "2030-12-31",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
